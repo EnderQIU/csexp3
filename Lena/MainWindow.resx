@@ -117,17 +117,39 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="上下翻转" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\上下翻转.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="右旋转90度" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\右旋转90度.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="左旋转90度" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\左旋转90度.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="左右翻转" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\左右翻转.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>137, 17</value>
+  </metadata>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>247, 17</value>
+  </metadata>
+  <metadata name="saveFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>395, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>65</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAAABMLAAATCwAAAAAAAAAA
+        AAB5kOZKI2VUKGdeLWiNXophPXZEH2ZFK4NdV8hqbNt/juGbteuMi75eVqN1er5tbrR1h+BZNXddLWuC
+        UH+KXo1MJ2pBG2JBIW9YTbdwbdaFjdp2bKBNMXpfVKRrabVqZapziOFeOYxjMWqLVYN7Y6ZFIWVAHGhC
+        KYRYUshua913cttGI2xEKHtfU6F6h8h6gb9whuNgQqBhLmt9SX50W51gUJQ+G2lSR7VlZd5mZNmBf99h
+        T6ZEJHFZSZh1g8x4f8Ntg+JfQqRwO3h4RHdNKnFbRYtTO39SSLpwb+F1eOBoZNZ/f9pFJHRXPodxe8d4
+        gchthOJaR69xQ4VtOXNWKGdSMXZuZKRaTreBg+WEieR4dN6IiN9KMI9YO4RkXah6g8tsg+FLPqxlWa9l
+        R45tN3JRJWVLKG6KkdFeTrB0ZLh7ed50ZbRBIHVbPoZVPYZ5hc5rgN5PO6NSSLdcWr1lRZlUJGROIGRq
+        WJyJjs5sY8CMlOWZpeNSOY5YO4NHImp5gMlqfd1LOaJQRrVncM5gWMFaOpBQIWZaK2x3YKKYntKYod6t
+        uu9cQ5ZQMXw/G2VoXKRme9xJOKJLQLBvhthlYsdtXsJnSJ1aKW9tOXaAcaidqdagrNh9b6tsbr1FJGtR
+        MnxmettKOaNJPq5vkONdW8VqZsl0bst8Z7iEcLV5ZqqTl9Gmtd2xvt+Yns91b69AGF5ld9pKO6VMQ7Jl
+        dNNVTLtqZcl6fNGOldiSm9mcpdmlrdimrdWhr960weCwvOBPLmxjcNZKOaFRR7RfYcZXT7xlYMZ2dsqX
+        otqlr9yyvN+3wt6ipdFqeN9qWpm2wd9bP3tib9ZNO6JRR7NYVsVXT7tjXcBvbcmFitCtuN24xOKzvNtf
+        VK9ueOFKMpFkbNtVSalfcNhMOqJSSLRXVcZZWMhjXL5xbcKMk8+hsdqmr9hpY7xZTLhrdt5jZ9Bjcdxm
+        c9xgcNdNP6pRS7lZWcpdXc9jYc1wbcqAhct8gs5jX8lcWclcU75veNlrfd5mdttyjuEAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</value>
   </data>
 </root>
